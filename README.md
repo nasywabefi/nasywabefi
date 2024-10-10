@@ -4,7 +4,7 @@
 - 👀 I’m interested in IT Bussines Analysis
 - - 🌱 I’m currently learning IT Project Manager and Analysis
 - 🔭 I’m currently working on Inventory Sistem.
-- 📫 How to reach me: [nasywabefiputrii@example.com](mailto:nasywabefiputrii@gmail.com).
+- 📫 How to reach me: [nasywabefiputrii@gmail .com](mailto:nasywabefiputrii@gmail.com).
 
 ---
 
