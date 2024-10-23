@@ -1,4 +1,4 @@
-# Hello, I'm [Nasywa Befiputri]! 👋
+# Hello, I'm Nasywa Befiputri! 👋
 
 ### 👨‍💻 About Me:
 - 👀 I’m interested in IT Bussines Analysis
