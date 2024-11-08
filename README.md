@@ -21,7 +21,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 
-#### 🛠️ Tools (techinical)
+#### 🛠️ Tools (Techinical & Managerial)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![Asana](https://img.shields.io/badge/-Asana-333333?style=flat&logo=asana)
 
