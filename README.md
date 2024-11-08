@@ -32,6 +32,7 @@
 
 
 ### 🌐 Connect with Me:
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/nasywabefiputri)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nasywabefi/)
 <!-- [Portfolio](https://yourportfolio.com)
