@@ -25,7 +25,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![Asana](https://img.shields.io/badge/-Asana-333333?style=flat&logo=asana)
 
-
+---
+#### 📍 Visitor Count
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername)
 
