@@ -30,6 +30,7 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername)
 
+---
 
 ### 🌐 Connect with Me:
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
