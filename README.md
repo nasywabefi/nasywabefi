@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me:
 - 👀 I’m interested in IT Bussines Analysis
-- - 🌱 I’m currently learning IT Project Manager, Analysis, Data Science, Full Stack Web-Dev
+- 🌱 I’m currently learning IT Project Manager, Analysis, Data Science, Full Stack Web-Dev
 - 🔭 I’m currently working on Inventory Sistem.
 - 📫 How to reach me: [nasywabefiputrii@gmail .com](mailto:nasywabefiputrii@gmail.com).
 
@@ -21,8 +21,10 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 
-#### 🛠️ Tools
+#### 🛠️ Tools (techinical)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Asana](https://img.shields.io/badge/-Asana-333333?style=flat&logo=asana)
+
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername)
