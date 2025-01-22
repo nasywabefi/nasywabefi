@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me:
 - 👀 I’m interested in IT Bussines Analysis
 - 🌱 I’m currently learning IT Project Manager, Analysis, Data Science, Full Stack Web-Dev
-- 🔭 I’m currently working on Inventory Sistem.
+- 🔭 I’m working on Inventory Sistem.
 - 📫 How to reach me: [nasywabefiputrii@gmail .com](mailto:nasywabefiputrii@gmail.com).
 
 ---
